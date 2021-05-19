@@ -1,18 +1,23 @@
-## mercredi 19 mai 2021 - rasslan - cours1 14-17H
+## Mercredi 19 mai 2021 - rasslan - cours1 14-17H
 
-##### intro 
- - mail à envoyer 
+##### Intro 
+ - Mail à envoyer 
      - hirasslan@
 
--  réception d'un mail 
-    - sur : @etu.u-pec.fr
+-  Réception d'un mail 
+    - Sur : @etu.u-pec.fr
     - 
 
--  faire un résumé
-    - aller à l'essentiel
+-  Faire un résumé
+    - Aller à l'essentiel
     - 
 - 
 - 
 
 
-#### 
+#### Début du cours 
+
+- Lecture du mail et du doc
+- 
+- 
+- 
