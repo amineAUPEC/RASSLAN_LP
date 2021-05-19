@@ -26,7 +26,7 @@
     - On accorde + d'importance à la communication écrite qu'à la communication orale :
         > En effet la communication écrite est conservé et est plus utilisée avec les clients. 
 
-
+- Justifier le texte
 ###### Début du résumé -- ma partie :
 
 
@@ -78,6 +78,7 @@ La commmunication peut-être :
 #### Dans le cas de la communication interne :
 - Le but est d'informer à chaque salarié, le sens de sa mission, de le guider.
 - Avoir un moment d'échange humain, en impliquant les valeurs de l'entreprise.
+- Elle peut-être vu sous différents angles comme les rapports et le de degré entre les personnes.
 
 
 
@@ -95,8 +96,26 @@ Désormais nous avons vu comment la communication est présente dans le monde pr
 
 - Nous pouvons retenir qu'une communication est :
     - Avant tout le fait de créer une relation avec au moins une autre personne/entité.
-    - Une communication correspond à une action et est à sa résultante.
-> [!CAUTION]
-> résultante
+    - Une communication correspond à une action et c'est son résultat.
+
+- Il exitste des familles de modèles explicatifs :
+    - Le modèle technique de Shannon : Faire des graphiques pour vulgariser la télécommunication.
+    - Les modèles de Palo Alto :
+        - Le but est de participer de manière verbale ou non verbale.
+        -  L'école a mis en évidence : 
+            - Les contenus explicites : C'est le fait d'expliquer clairement : 
+                - Par exemple : En détaillant
+            - Les contenus implicites : C'est le fait de laisser entendre : 
+                - Par exemple : On suggère la définition d'un mot.
+
+- La communication se base :
+    - La définition et le partage du sens : 
+        - Le but est de se faire comprendre, les mots doivent être  simple et courant.
 
 
+    - La communication est parfois basée sur des normes ou des glossaires.
+    - D'autres part, la communication est aussi basée sur la proximité en fonction de la distance physique.
+    - Le fait de de refléter les enjeux : L'enjeux informatif, l'enjeu d'expression de son identité, l'enjeu de pouvoir , d'influence et de séduction.
+    
+
+    - Par ailleurs, il faut prendre en compte le contexte lors de la réception, la façon de présenter et les dysfonctionnements dans le processus de communication   
