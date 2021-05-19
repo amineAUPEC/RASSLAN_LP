@@ -29,6 +29,8 @@
     - Justifier le texte
     - Ajouter + de connecteur logique
     - faut-til-une conclusion
+    - une table des matières (sommaire)
+    - faut-il que j'aère plus
 ###### Début du résumé -- ma partie :
 
 
