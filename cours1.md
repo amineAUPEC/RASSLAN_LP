@@ -32,17 +32,17 @@
 
 
  
-- Ce document décrit les différents situation de commmunication en milieu profesionnel
-    - En effet, il existe 2 grandes catégories
-        - Les types et outils de communication
-        - Les situations de communication
+- Ce document décrit les différentes situations de communication en milieu professionnel :
+    - En effet, il existe 2 grandes catégories :
+        - Les types et outils de communication.
+        - Les situations de communication.
     - On aborde le premier cas : *Les types et outils de communications*
     ####  La communication peut-être
     - Écrite : Elle est caractérisée par :
-        - Des spécificités rédactionelles : 
+        - Des spécificités rédactionnelles : 
             - Structure logique, cohérente, compréhensible et lisible par le lecteur **avec une certaine qualité**.
             - Politesse et bienveillance.
-            - Signature
+            - Signature.
         - Des spécificités en relation à la forme :
             - Règles de mise en forme.
             - Respect de la charte graphique de l'entreprise.
