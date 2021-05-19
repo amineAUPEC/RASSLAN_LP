@@ -25,8 +25,9 @@
 - En entreprise :
     - On accorde + d'importance à la communication écrite qu'à la communication orale :
         > En effet la communication écrite est conservé et est plus utilisée avec les clients. 
-
-- Justifier le texte
+- Lé résumé doit repsecter ces règles :
+    - Justifier le texte
+    - Ajouter + de connecteur logique
 ###### Début du résumé -- ma partie :
 
 
@@ -90,7 +91,7 @@ La commmunication peut-être :
 
 
 
-Désormais nous avons vu comment la communication est présente dans le monde profesionnel.
+Désormais, nous avons vu comment la communication est présente dans le monde profesionnel.
 
 
 
@@ -110,16 +111,17 @@ Désormais nous avons vu comment la communication est présente dans le monde pr
 
 - La communication se base :
     - La définition et le partage du sens : 
-        - Le but est de se faire comprendre, les mots doivent être  simple et courant.
+        - Le but est de se faire comprendre, les mots doivent être simple et courant.
 
 
     - La communication est parfois basée sur des normes ou des glossaires.
     - D'autres part, la communication est aussi basée sur la proximité en fonction de la distance physique.
-    - Le fait de de refléter les enjeux : L'enjeux informatif, l'enjeu d'expression de son identité, l'enjeu de pouvoir , d'influence et de séduction.
+    - Le fait de de refléter les enjeux : 
+        - L'enjeux informatif, l'enjeu d'expression de son identité, l'enjeu de pouvoir, d'influence et de séduction.
     
 
-    - Par ailleurs, il faut prendre en compte le contexte lors de la réception, la façon de présenter et les dysfonctionnements dans le processus de communication   
+    - Par ailleurs, il faut prendre en compte le contexte lors de la réception, la façon de présenter et les dysfonctionnements dans le processus de communication.  
 
 ----------------
 
- ###### arrêt à 16h41 -> vers Word 
+ ###### arrêt à 16h41 -> vers Word ./mydocs/cours1-td1_AMINE.docx
