@@ -59,3 +59,44 @@
 Désormais nous avons vu le principe de bases des différents types et outils de communication.
 Nous pouvons passser à second cas :
 #### Les situations de communication
+
+Dans le cas d'une assistante de direction :
+- Elle est confrontée quotidiennement :
+    - À des situations de communication interpersonelle : *Accueil* .
+    - À des situations de communication dans un groupe : *Animation d'une réunion.*
+
+
+
+- La communication en entreprise :
+
+Elle est essentielle pour discerner les enjeux, les objectifs et comprendre l'importance des relations des personnes impliquées.
+ 
+La commmunication peut-être :
+    -  Une communication interne
+    -  Une communication externe
+    
+#### Dans le cas de la communication interne :
+- Le but est d'informer à chaque salarié, le sens de sa mission, de le guider.
+- Avoir un moment d'échange humain, en impliquant les valeurs de l'entreprise.
+
+
+
+#### Dans le cas de la communication externe :
+- Le but est de promouvoir l'image de l'entreprise.
+- Attirer de nouveaux prospects clients, recrutés de nouveaux talents.
+- Expliquer ses avantages et atouts par rapport à la concurrence : **Sa valeur ajoutée**
+
+
+
+
+Désormais nous avons vu comment la communication est présente dans le monde profesionnel.
+
+
+
+- Nous pouvons retenir qu'une communication est :
+    - Avant tout le fait de créer une relation avec au moins une autre personne/entité.
+    - Une communication correspond à une action et est à sa résultante.
+> [!CAUTION]
+> résultante
+
+
