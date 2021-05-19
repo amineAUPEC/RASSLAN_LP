@@ -4,6 +4,7 @@ objet : Résumé TD1 PPP
 Bonjour Monsieur Rasslan  
 
 
+
 Voici mon rapport de PPP, en format Word :   
 
 Sur le document Connaître les bases de la communication professionnelle
