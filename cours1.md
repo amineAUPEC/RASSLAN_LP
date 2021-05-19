@@ -119,3 +119,7 @@ Désormais nous avons vu comment la communication est présente dans le monde pr
     
 
     - Par ailleurs, il faut prendre en compte le contexte lors de la réception, la façon de présenter et les dysfonctionnements dans le processus de communication   
+
+----------------
+
+ ###### arrêt à 16h41 -> vers Word 
