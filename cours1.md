@@ -28,6 +28,7 @@
 - Lé résumé doit repsecter ces règles :
     - Justifier le texte
     - Ajouter + de connecteur logique
+    - faut-til-une conclusion
 ###### Début du résumé -- ma partie :
 
 
@@ -57,14 +58,14 @@
 
 
 
-Désormais nous avons vu le principe de bases des différents types et outils de communication.
-Nous pouvons passser à second cas :
+Désormais nous avons vu le principe de bases des différents types et outils de communication.  
+Nous pouvons passer au second cas : *Les situations de communication*
 #### Les situations de communication
 
 Dans le cas d'une assistante de direction :
 - Elle est confrontée quotidiennement :
-    - À des situations de communication interpersonelle : *Accueil* .
-    - À des situations de communication dans un groupe : *Animation d'une réunion.*
+    - À des situations de communication interpersonelle : *Accueil*.
+    - À des situations de communication dans un groupe : *Animation d'une réunion.*.
 
 
 
