@@ -121,3 +121,6 @@ On donne une idée avec une phrase 2
 
 
 travail en groupe possible
+
+
+faire un résumé
