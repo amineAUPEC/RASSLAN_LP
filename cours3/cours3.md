@@ -36,4 +36,43 @@
 
 - insatisfaction par ex : les conditions de travail, fond réalistes, augmentation salarial, organisation des réunions
 - il y a des malentendus
-- 
+- les messages doivent êtres clairs et compréhensibles :
+    - pour éviter les malentendus
+
+
+- pour résoudre certains conflits 
+    - on les mets sur une feuille
+        - les raisons
+        - les solutions que lon cherche à trouver
+                - en limitant les motivations  réelles
+
+
+
+
+
+- être à l'origine de certains conflits
+    - 
+
+
+- on commence les conflits entre les groupes, concurennce *, d'interet*, la rlation est enrichissante, 
+    - La différence peut-être enrichissante
+    - je peux aider les autres
+
+
+- des managers doivent intervenir
+
+
+
+- médiation et 
+
+
+- apparence ou conflits stratégiques:
+
+- il faut trouver une sorte d'harmonie entre les 2 parties entre le salarié et l'entreprise :
+
+
+- s'il n'arrive pas à être relationnel 
+    - il faut le changer de service
+
+
+- travailler à plusieurs
