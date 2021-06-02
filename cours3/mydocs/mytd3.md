@@ -1,6 +1,43 @@
 ###### Début :
 
 
+##### Résumé :
+
+
+
+
+
+- La stratégie dépend 
+    - Des entreprise
+    - Des salariés
+    - De la situation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### Question 1) : Comment gérez-vous vos conflits ?
 ##### Question 2) : Vous listez vos réponses à une double question
 
