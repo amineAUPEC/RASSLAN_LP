@@ -50,29 +50,58 @@
 
 
 
-- être à l'origine de certains conflits
+- Être à l'origine de certains conflits
     - 
 
 
-- on commence les conflits entre les groupes, concurennce *, d'interet*, la rlation est enrichissante, 
+- On commence les conflits entre les groupes, concurrence *, d'intérêt*, la rlation est enrichissante, 
     - La différence peut-être enrichissante
-    - je peux aider les autres
+    - Je peux aider les autres
 
 
-- des managers doivent intervenir
+- Des managers doivent intervenir
 
 
 
-- médiation et 
+- Médiation et 
 
 
-- apparence ou conflits stratégiques:
+- Apparence ou conflits stratégiques:
 
-- il faut trouver une sorte d'harmonie entre les 2 parties entre le salarié et l'entreprise :
+- Il faut trouver une sorte d'harmonie entre les 2 parties entre le salarié et l'entreprise :
 
 
-- s'il n'arrive pas à être relationnel 
+- S'il n'arrive pas à être relationnel 
     - il faut le changer de service
 
 
-- travailler à plusieurs
+- Travailler à plusieurs
+    - Travailler avec les capacités relationnels
+        - Avec des ateliers
+        - Il faut partager le savoir, savoir-faire, l'information et l'expérience
+        - Il faut échanger
+            - Pour le bon Fonctionnement de l'entreprise
+
+
+- Le manager va intervenir avec l'art de convaincre, persuader pour les objectifs
+
+- La méthode raisonnée :
+    - Traiter séparément un moyen de résoudre tous les problèmes
+
+- Produire un bénéfice mutuelle
+
+- La stratégie dépend 
+    - Des entreprise
+    - Des salariés
+    - De la situation
+
+- Ajouter certaines strategies relationel
+
+- Un conflit bien géré  
+
+- Respect des différences que lon va gagner à la fin de 
+
+
+- Adapter à chaque conflit et chaque situation
+
+#### - Cours version détaillé :
