@@ -1,2 +1,2 @@
-## JEUDI 27 mai 2021 - RASSLAN - cours2 14-17H
+## MERCREDI 02 JUIN 2021 - RASSLAN - cours3-TD3 14 *20* -17H
 
