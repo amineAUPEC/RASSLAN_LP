@@ -4,7 +4,19 @@
 ##### Résumé :
 
 
+- Il faut savoir gérer les conflits :
+    - On a des problèmes de communications ou de compréhension
+    - On essaye de trouver une solution
+        - Pour éviter les conséquences négatives aux salariés, aux clients
 
+
+- La stratégie dépend 
+    - Des entreprise
+    - Des salariés
+    - De la situation
+
+- La méthode raisonnée :
+    - Traiter séparément un moyen de résoudre tous les problèmes    
 
 
 - La stratégie dépend 
@@ -17,14 +29,13 @@
 
 
 
-
-
-
-
-
-
-
-
+- Il y a les enjeux et les formes de conflits
+    - Il faut essayer de résoudre les conflits
+        - Ce n'est pas forcément une personne
+- Les conflits ne sont pas toujours inutile
+    - Il faut trouver des solutions 
+        - Cela peut se révéler positif
+        - Et ce n'est pas forcément négatif
 
 
 
