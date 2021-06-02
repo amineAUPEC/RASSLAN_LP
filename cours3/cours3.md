@@ -54,7 +54,7 @@
     - 
 
 
-- On commence les conflits entre les groupes, concurrence *, d'intérêt*, la rlation est enrichissante, 
+- On commence les conflits entre les groupes, concurrence *, d'intérêt*, la relation est enrichissante, 
     - La différence peut-être enrichissante
     - Je peux aider les autres
 
@@ -95,7 +95,7 @@
     - Des salariés
     - De la situation
 
-- Ajouter certaines stratégies relationelles
+- Ajouter certaines stratégies relationnelles
 
 - Un conflit bien géré  
 
