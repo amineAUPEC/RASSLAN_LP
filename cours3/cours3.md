@@ -34,17 +34,17 @@
 - Une déformation de l'information ou si un collègue déforme
 - Fonctionnement du groupe fusionnel
 
-- insatisfaction par ex : les conditions de travail, fond réalistes, augmentation salarial, organisation des réunions
-- il y a des malentendus
-- les messages doivent êtres clairs et compréhensibles :
-    - pour éviter les malentendus
+- Insatisfaction par ex : les conditions de travail, fond réalistes, augmentation salarial, organisation des réunions
+- Il y a des malentendus
+- Les messages doivent êtres clairs et compréhensibles :
+    - Pour éviter les malentendus
 
 
-- pour résoudre certains conflits 
-    - on les mets sur une feuille
-        - les raisons
-        - les solutions que lon cherche à trouver
-                - en limitant les motivations  réelles
+- Pour résoudre certains conflits 
+    - On les mets sur une feuille
+        - Les raisons
+        - Les solutions que lon cherche à trouver
+                - En limitant les motivations  réelles
 
 
 
@@ -95,7 +95,7 @@
     - Des salariés
     - De la situation
 
-- Ajouter certaines strategies relationel
+- Ajouter certaines stratégies relationelles
 
 - Un conflit bien géré  
 
@@ -104,4 +104,20 @@
 
 - Adapter à chaque conflit et chaque situation
 
-#### - Cours version détaillé :
+#### - Cours version détaillé : doc à DL
+##### quelques exercices
+
+
+1. Comment gérer vous vos conflits
+
+
+    - Personnelles..
+    - Interpersonnelles..
+
+On donne une idée avec une phrase 2 
+
+2. Lister vos réponse à une double questions
+
+
+
+travail en groupe possible
