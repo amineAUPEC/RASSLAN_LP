@@ -20,3 +20,8 @@ Bien cordialement
 
 ============================================
 mail 4 :
+
+
+Pour le travail à faire, les questions ne sont pas obligatoires. C'est le résumé qui sera noté. 
+
+Merci pour votre attention
