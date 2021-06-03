@@ -47,3 +47,9 @@ https://us04web.zoom.us/j/73950259275?pwd=d0pTWVExVTgzT0w3MjVoOTZVdUlIQT09
 
 ID de réunion : 739 5025 9275
 Code secret : R69jtN
+
+
+=================
+Pour le rapport demandé, tu es salariée intéressée par la gestion des conflits au travail. Le directeur a demandé de rédiger un rapport sur cette question. 
+
+Ton travail sera une petite recherche à faire pour montrer les stratégies et les méthodes les plus récentes pour une gestion efficace des conflits au travail, et qui sont valables pour votre entreprise s'il y a des conflits.
