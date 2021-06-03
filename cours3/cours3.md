@@ -102,7 +102,7 @@
 - Respect des différences que lon va gagner à la fin de 
 
 
-- Adapter à chaque conflit et chaque situation
+- Adapter à chaque conflit et à chaque situation
 
 #### - Cours version détaillé : doc à DL
 ##### quelques exercices

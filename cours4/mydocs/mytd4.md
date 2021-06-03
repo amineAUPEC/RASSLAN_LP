@@ -29,3 +29,28 @@ La forme est importante pour faciliter la lecture, ne l’oubliez pas. Vos phras
 
 # La rédaction finale
 
+===================================================
+
+- La gestion des conflits passent par la réconciliation entre les 2 parties :  
+    - Il peut s'agir de l'employeur vers l'employé.  
+    - Entre les employés.  
+    
+
+Cette gestion passent avant tout par chercher une solution, un accord pour faire raisonner.  
+
+De plus, il ne faut pas avoir peur de faire des conflits lors des ateliers, en effet cela augmente la productivité grâce à la créativité.  
+En outre, il faut chercher le motif, est-ce un motif personnel, interpersonnel...  
+La raison est peut-être interne telles que les conditions de travail, fond réalistes, augmentation salarial ou l'organisation des réunions.  
+
+Je propose de réaliser des ateliers de brainstorming *remue-méninge*.  
+
+
+De plus, cela peut aussi des ateliers rédactionnelles, ou des préparations à des certifications de grammaire et d'orthographe. comme la certification Voltaire.  
+En effet, les problèmes de communication avec des messages ou paroles pas assez clair ou compréhensible.  
+En outre, cette situation est à l'origine de malentendus, d'incompréhension ou bien certaines phrases sont mal reformulés par le collègue intermédiaire.  
+
+
+Par ailleurs, le manager va intervenir avec l'art de convaincre, persuader pour les objectifs et à un rôle primordiale.  
+En effet, avec sa forte expérience, il sait résoudre les problèmes et les traiter séparément.  
+En outre, sa relation doit apaiser les tensions.  
+Par ailleurs, il faut savoir s'adapter différemment à chaque conflit et à chaque situation
