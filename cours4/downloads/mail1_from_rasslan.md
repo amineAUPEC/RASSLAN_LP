@@ -1,23 +1,40 @@
-Bonjour,
+Bonjour,  
 
-TD3 commence vers 14h20.
-Dans le message suivant, je vais vous envoyer le lien.
-Cordialement
-<!-- RASSLAN -->
+J'espère que tout le monde va très bien.   
+
+Aujourd'hui,  nous continuons notre travail sur la gestion des conflits en entreprise  
+
+Nous allons mettre en oeuvre tout ce que nous avons appris.
+
+Vous pouvez travailler  en petits groupes de 2 ou 3 étudiants pour rédiger un petit rapport destiné à votre employeur sur "les stratégies ou les conseils pour une meilleure  gestion des conflits au travail" 
+
+La rédaction  sera de 3 à 4 pages (puisque vous allez travailler en petits groupes).
+
+Je reste à votre disposition pour expliquer la consigne et répondre à vos questions.
+
+Bon travail.  
+
+Rasslan 
 
 
 ============================================
 mail2 :  
 
-Hafez RASSLAN vous invite à une réunion Zoom planifiée.
+Conseils pour rédiger un rapport : 
+L’élaboration du plan
+1. Introduction
+Le rapport doit évidemment comprendre une introduction qui indique l’objet du rapport, son intérêt et son importance. Soyez brève, précise et surtout complète.
 
-Sujet : Hafez RASSLAN - Salle de réunion personnelle
+2. Le développement
+Le développement est le cœur de l’analyse et se compose de trois segments distincts : l’énoncé du constat et des faits entourant la situation, l’analyse des faits, les points positifs et les points négatifs et, finalement, les recommandations pour régler la situation exposant clairement leurs avantages, inconvénients et les moyens pour les mettre en œuvre. L’argumentation doit être solide.
 
-Participer à la réunion Zoom
-https://us04web.zoom.us/j/5891897710?pwd=eDl5SklkakRhdlQxZmx0Z1hHa2pGQT09
+3. La conclusion
+Troisième partie du plan : la conclusion. Elle doit être une réponse à la question posée. Vous devez reprendre vos recommandations et mettre l’accent sur la solution trouvée.
 
-ID de réunion : 589 189 7710
-Code secret : KCQb13
+La rédaction finale
+La forme est importante pour faciliter la lecture, ne l’oubliez pas. Vos phrases doivent être courtes, le vocabulaire précis et les paragraphes bien structurés. Les intertitres doivent évoquer clairement les différentes parties. Finalement, si votre rapport fait plus de trois pages, assurez-vous d’intégrer un sommaire
+
+
 
 ============================================
 Hafez RASSLAN vous invite à une réunion Zoom planifiée.
